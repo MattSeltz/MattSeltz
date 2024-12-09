@@ -12,4 +12,4 @@ Desarrollador Full Stack especializado en el stack MERN y tecnologías modernas 
 - **[Zuma](https://github.com/MattSeltz/zuma):** Plataforma integral para la gestión de proyectos de construcción.
 
 📫 **Contáctame:**  
-[LinkedIn](https://www.linkedin.com/in/matias-seltzer/) | [Portfolio](https://matias-seltzer.netlify.app/)
+[LinkedIn](www.linkedin.com/in/matías-seltzer) | [Portfolio](https://matias-seltzer.netlify.app/)
