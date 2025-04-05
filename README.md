@@ -33,15 +33,15 @@ Desarrollador **Full Stack** especializado en el stack **MERN**, con experiencia
 
 ## 🧩 Proyectos personales
 
-- [**XYZ**](https://github.com/MattSeltz/xyz-cliente) – Red social sencilla  
+- [**XYZ**](https://xyz-cliente.onrender.com/) – Red social sencilla  
   Aplicación MERN donde los usuarios pueden registrarse, crear publicaciones, dar like, comentar y recuperar su contraseña vía email. Con rutas protegidas y despliegue desacoplado en Render (cliente y servidor por separado).  
   ➤ Cliente: [xyz-cliente](https://github.com/MattSeltz/xyz-cliente) | Servidor: [xyz-servidor](https://github.com/MattSeltz/xyz-servidor)
 
-- [**OpinandoAndo**](https://github.com/MattSeltz/opinandoAndo-cliente) – Opiniones que conectan  
+- [**OpinandoAndo**](https://opinando-ando.vercel.app/) – Opiniones que conectan  
   Red social centrada en afirmaciones donde los usuarios pueden votar si están de acuerdo o no. Cliente en Next.js + TypeScript, backend en Express + TypeScript. Cuenta con autenticación segura, recuperación de contraseña y diseño responsivo.  
   ➤ Cliente: [opinandoAndo-cliente](https://github.com/MattSeltz/opinandoAndo-cliente) | Servidor: [opinandoAndo-servidor](https://github.com/MattSeltz/opinandoAndo-servidor)
 
-- [**MiVitrina**](https://github.com/MattSeltz/mivitrina-cliente) – Landing pages para emprendedores  
+- [**MiVitrina**](https://mivitrina-cliente.onrender.com/) – Landing pages para emprendedores  
   Plataforma que permite a startups generar su propia landing page con diseño prediseñado mediante un formulario, sin conocimientos técnicos. Ideal para mostrar su negocio de forma profesional en pocos minutos.  
   ➤ Cliente: [mivitrina-cliente](https://github.com/MattSeltz/mivitrina-cliente) | Servidor: [mivitrina-api](https://github.com/MattSeltz/mivitrina-api)
 
