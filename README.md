@@ -7,12 +7,18 @@ Desarrollador **Full Stack** especializado en el stack **MERN**, con experiencia
 ## 🚀 Tecnologías
 
 **Frontend:** React, Next.js, TypeScript, Tailwind CSS  
-**Backend:** Node.js, Express.js, MongoDB  
+**Backend:** Node.js, Express.js, MongoDB, PostgreSQL  
 **Otras herramientas:** Docker, Cloudinary, Playwright, NextAuth
 
 ---
 
 ## 💼 Experiencia
+
+- [**Ushuaia Extremo**](https://ushuaia-extremo.onrender.com)  
+  Desarrollo y mantenimiento de un sitio web con e-commerce para la venta de productos y servicios turísticos. Implementación de carrito de compras, gestión de usuarios y pasarela de pago segura. Optimización del backend con Node.js, Express, MongoDB y PostgreSQL.
+
+- [**Apolión**](https://www.apolion.online)  
+  Desarrollo completo frontend y backend de dos e-commerce, un panel de administración, un bot de scraping, una API y una landing page sencilla para marketing digital.
 
 - [**Siara Estética**](https://github.com/MattSeltz/siara-estetica)  
   Sistema de gestión de citas y control de inventario para centros de estética.
