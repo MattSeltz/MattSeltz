@@ -55,4 +55,4 @@ Desarrollador **Full Stack** especializado en el stack **MERN**, con experiencia
 
 ## 📫 Contáctame
 
-[LinkedIn](https://www.linkedin.com/in/matias-seltzer/) | [Portfolio](https://matias-seltzer.netlify.app/)
+[LinkedIn](https://www.linkedin.com/in/matias-seltzer/) | [Portfolio](https://mati-seltzer.com)
