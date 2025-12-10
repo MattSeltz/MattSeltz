@@ -1,6 +1,6 @@
 # 👋 Hola, soy **Matías Seltzer**
 
-Desarrollador **Full Stack Freelance** con más de **4 años de experiencia** creando soluciones digitales personalizadas para empresas, agencias y emprendedores.  
+Desarrollador **Full Stack Freelance** con más de **2 años de experiencia** creando soluciones digitales personalizadas para empresas, agencias y emprendedores.  
 Me especializo en **Next.js**, **React** y el **stack MERN**, construyendo productos web rápidos, escalables y centrados en la experiencia del usuario.
 
 ---
@@ -17,7 +17,7 @@ Me especializo en **Next.js**, **React** y el **stack MERN**, construyendo produ
 ## 🧠 Tecnologías principales
 
 **Frontend:** Next.js, React, TypeScript, TailwindCSS  
-**Backend:** Node.js, Express, MongoDB, PostgreSQL  
+**Backend:** Node.js, Express, MongoDB, PostgreSQL, NestJS  
 **Herramientas y otras:** Docker, Firebase, Cloudinary, NextAuth, Playwright
 
 ---
@@ -27,3 +27,4 @@ Me especializo en **Next.js**, **React** y el **stack MERN**, construyendo produ
 🌐 [Portfolio](https://mati-seltzer.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/matias-seltzer/)  
 💻 [GitHub](https://github.com/MattSeltz)
+✨ [Plantillas](https://plantillas.mati-seltzer.com)
